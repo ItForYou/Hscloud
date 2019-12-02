@@ -1,0 +1,261 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* ._.DS_Store
+* AndroidManifest.xml
+* App.Key
+* ic_launcher-web.png
+* proguard-android-optimize.txt
+* proguard-android.txt
+* proguard-project.txt
+* proguard\
+* proguard\dump.txt
+* proguard\mapping.txt
+* proguard\seeds.txt
+* proguard\usage.txt
+* res\
+* res\drawable\
+* res\drawable\file.png
+* res\drawable\folder.png
+* res\drawable\ic_launcher.png
+* res\layout\
+* res\layout\file_picker_empty_view.xml
+* res\layout\file_picker_list_item.xml
+* res\values-v11\
+* res\values-v11\styles.xml
+* res\values-v14\
+* res\values-v14\styles.xml
+* res\values\
+* res\values\colors.xml
+* res\values\dimens.xml
+* res\values\strings.xml
+* res\values\styles.xml
+* res\xml-mcc204-mnc4\
+* res\xml-mcc204-mnc4\mms_config.xml
+* res\xml-mcc208-mnc10\
+* res\xml-mcc208-mnc10\mms_config.xml
+* res\xml-mcc208-mnc15\
+* res\xml-mcc208-mnc15\mms_config.xml
+* res\xml-mcc208-mnc1\
+* res\xml-mcc208-mnc1\mms_config.xml
+* res\xml-mcc208-mnc20\
+* res\xml-mcc208-mnc20\mms_config.xml
+* res\xml-mcc208-mnc26\
+* res\xml-mcc208-mnc26\mms_config.xml
+* res\xml-mcc214-mnc3\
+* res\xml-mcc214-mnc3\mms_config.xml
+* res\xml-mcc214-mnc7\
+* res\xml-mcc214-mnc7\mms_config.xml
+* res\xml-mcc218-mnc5\
+* res\xml-mcc218-mnc5\mms_config.xml
+* res\xml-mcc222-mnc1\
+* res\xml-mcc222-mnc1\mms_config.xml
+* res\xml-mcc222-mnc8\
+* res\xml-mcc222-mnc8\mms_config.xml
+* res\xml-mcc238-mnc2\
+* res\xml-mcc238-mnc2\mms_config.xml
+* res\xml-mcc240-mnc1\
+* res\xml-mcc240-mnc1\mms_config.xml
+* res\xml-mcc240-mnc24\
+* res\xml-mcc240-mnc24\mms_config.xml
+* res\xml-mcc240-mnc4\
+* res\xml-mcc240-mnc4\mms_config.xml
+* res\xml-mcc240-mnc8\
+* res\xml-mcc240-mnc8\mms_config.xml
+* res\xml-mcc242-mnc1\
+* res\xml-mcc242-mnc1\mms_config.xml
+* res\xml-mcc242-mnc2\
+* res\xml-mcc242-mnc2\mms_config.xml
+* res\xml-mcc262-mnc7\
+* res\xml-mcc262-mnc7\mms_config.xml
+* res\xml-mcc274-mnc2\
+* res\xml-mcc274-mnc2\mms_config.xml
+* res\xml-mcc274-mnc3\
+* res\xml-mcc274-mnc3\mms_config.xml
+* res\xml-mcc286-mnc1\
+* res\xml-mcc286-mnc1\mms_config.xml
+* res\xml-mcc286-mnc3\
+* res\xml-mcc286-mnc3\mms_config.xml
+* res\xml-mcc294-mnc1\
+* res\xml-mcc294-mnc1\mms_config.xml
+* res\xml-mcc294-mnc2\
+* res\xml-mcc294-mnc2\mms_config.xml
+* res\xml-mcc294-mnc3\
+* res\xml-mcc294-mnc3\mms_config.xml
+* res\xml-mcc302-mnc220\
+* res\xml-mcc302-mnc220\mms_config.xml
+* res\xml-mcc302-mnc221\
+* res\xml-mcc302-mnc221\mms_config.xml
+* res\xml-mcc302-mnc270\
+* res\xml-mcc302-mnc270\mms_config.xml
+* res\xml-mcc302-mnc290\
+* res\xml-mcc302-mnc290\mms_config.xml
+* res\xml-mcc302-mnc370\
+* res\xml-mcc302-mnc370\mms_config.xml
+* res\xml-mcc302-mnc490\
+* res\xml-mcc302-mnc490\mms_config.xml
+* res\xml-mcc302-mnc500\
+* res\xml-mcc302-mnc500\mms_config.xml
+* res\xml-mcc302-mnc510\
+* res\xml-mcc302-mnc510\mms_config.xml
+* res\xml-mcc302-mnc610\
+* res\xml-mcc302-mnc610\mms_config.xml
+* res\xml-mcc302-mnc660\
+* res\xml-mcc302-mnc660\mms_config.xml
+* res\xml-mcc302-mnc720\
+* res\xml-mcc302-mnc720\mms_config.xml
+* res\xml-mcc302-mnc780\
+* res\xml-mcc302-mnc780\mms_config.xml
+* res\xml-mcc310-mnc10\
+* res\xml-mcc310-mnc10\mms_config.xml
+* res\xml-mcc310-mnc120\
+* res\xml-mcc310-mnc120\mms_config.xml
+* res\xml-mcc310-mnc150\
+* res\xml-mcc310-mnc150\mms_config.xml
+* res\xml-mcc310-mnc170\
+* res\xml-mcc310-mnc170\mms_config.xml
+* res\xml-mcc310-mnc260\
+* res\xml-mcc310-mnc260\mms_config.xml
+* res\xml-mcc310-mnc26\
+* res\xml-mcc310-mnc26\mms_config.xml
+* res\xml-mcc310-mnc380\
+* res\xml-mcc310-mnc380\mms_config.xml
+* res\xml-mcc310-mnc410\
+* res\xml-mcc310-mnc410\mms_config.xml
+* res\xml-mcc310-mnc420\
+* res\xml-mcc310-mnc420\mms_config.xml
+* res\xml-mcc310-mnc450\
+* res\xml-mcc310-mnc450\mms_config.xml
+* res\xml-mcc310-mnc490\
+* res\xml-mcc310-mnc490\mms_config.xml
+* res\xml-mcc310-mnc560\
+* res\xml-mcc310-mnc560\mms_config.xml
+* res\xml-mcc310-mnc680\
+* res\xml-mcc310-mnc680\mms_config.xml
+* res\xml-mcc310-mnc770\
+* res\xml-mcc310-mnc770\mms_config.xml
+* res\xml-mcc310-mnc90\
+* res\xml-mcc310-mnc90\mms_config.xml
+* res\xml-mcc310-mnc980\
+* res\xml-mcc310-mnc980\mms_config.xml
+* res\xml-mcc311-mnc180\
+* res\xml-mcc311-mnc180\mms_config.xml
+* res\xml-mcc311-mnc370\
+* res\xml-mcc311-mnc370\mms_config.xml
+* res\xml-mcc311-mnc480\
+* res\xml-mcc311-mnc480\mms_config.xml
+* res\xml-mcc311-mnc490\
+* res\xml-mcc311-mnc490\mms_config.xml
+* res\xml-mcc311-mnc870\
+* res\xml-mcc311-mnc870\mms_config.xml
+* res\xml-mcc334-mnc20\
+* res\xml-mcc334-mnc20\mms_config.xml
+* res\xml-mcc418-mnc20\
+* res\xml-mcc418-mnc20\mms_config.xml
+* res\xml-mcc418-mnc30\
+* res\xml-mcc418-mnc30\mms_config.xml
+* res\xml-mcc418-mnc5\
+* res\xml-mcc418-mnc5\mms_config.xml
+* res\xml-mcc420-mnc4\
+* res\xml-mcc420-mnc4\mms_config.xml
+* res\xml-mcc440-mnc10\
+* res\xml-mcc440-mnc10\mms_config.xml
+* res\xml-mcc440-mnc20\
+* res\xml-mcc440-mnc20\mms_config.xml
+* res\xml-mcc450-mnc2\
+* res\xml-mcc450-mnc2\mms_config.xml
+* res\xml-mcc450-mnc5\
+* res\xml-mcc450-mnc5\mms_config.xml
+* res\xml-mcc450-mnc6\
+* res\xml-mcc450-mnc6\mms_config.xml
+* res\xml-mcc450-mnc8\
+* res\xml-mcc450-mnc8\mms_config.xml
+* res\xml-mcc450\
+* res\xml-mcc450\mms_config.xml
+* res\xml-mcc505-mnc1\
+* res\xml-mcc505-mnc1\mms_config.xml
+* res\xml-mcc530-mnc5\
+* res\xml-mcc530-mnc5\mms_config.xml
+* res\xml-mcc604-mnc2\
+* res\xml-mcc604-mnc2\mms_config.xml
+* res\xml-mcc604\
+* res\xml-mcc604\mms_config.xml
+* res\xml-mcc647-mnc10\
+* res\xml-mcc647-mnc10\mms_config.xml
+* res\xml\
+* res\xml\apns.xml
+* res\xml\mms_config.xml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:27.+
+gson-2.3.jar => com.google.code.gson:gson:2.3
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.3.jar => version 2.3 in com.google.code.gson:gson:2.3
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* libs\android-support-multidex.jar => mMS_Master_Lib_No_API_Image_L\libs\android-support-multidex.jar
+* libs\androidasync-2.0.9.jar => mMS_Master_Lib_No_API_Image_L\libs\androidasync-2.0.9.jar
+* libs\com.squareup.okhttp-okhttp-2.2.0.jar => mMS_Master_Lib_No_API_Image_L\libs\com.squareup.okhttp-okhttp-2.2.0.jar
+* libs\ion-2.0.9.jar => mMS_Master_Lib_No_API_Image_L\libs\ion-2.0.9.jar
+* libs\okhttp-urlconnection-2.0.0.jar => mMS_Master_Lib_No_API_Image_L\libs\okhttp-urlconnection-2.0.0.jar
+* libs\org.apache.http.legacy.jar => mMS_Master_Lib_No_API_Image_L\libs\org.apache.http.legacy.jar
+* src\ => mMS_Master_Lib_No_API_Image_L\src\main\java\
+
+Missing Android Support Repository:
+-----------------------------------
+Some useful libraries, such as the Android Support Library, are
+installed from a special Maven repository, which should be installed
+via the SDK manager.
+
+It looks like this library is missing from your SDK installation at:
+null
+
+To install it, open the SDK manager, and in the Extras category,
+select "Android Support Repository". You may also want to install the
+"Google Repository" if you want to use libraries like Google Play
+Services.
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
